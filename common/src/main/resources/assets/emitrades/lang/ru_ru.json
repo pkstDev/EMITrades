@@ -3,8 +3,9 @@
 
   "emi.emitrades.random_colored": "Случайный цвет",
   "emi.emitrades.random_structure": "Случайная структура",
-  "emi.emitrades.random_effect": "Случайный эффект",
+  "emi.emitrades.random_effect": "Случайные эффекты",
   "emi.emitrades.enchantments.possible": "Возможные зачарования:",
+  
   "emi.emitrades.profession.lvl.1": "Новичок",
   "emi.emitrades.profession.lvl.2": "Подмастерье",
   "emi.emitrades.profession.lvl.3": "Ремесленник",
